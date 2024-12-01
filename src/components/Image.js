@@ -1,8 +1,6 @@
 import React from 'react';
 
-// Déclaration de la variable prénom (vous pouvez la modifier ou la laisser vide)
-const prenom = ""; // Mettez votre prénom ici si vous le souhaitez
-
+const prenom = ""; 
 function Image({ imageUrl, name }) {
   return (
     <div>
